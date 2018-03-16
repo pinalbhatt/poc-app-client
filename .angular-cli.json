@@ -5,8 +5,9 @@
   },
   "apps": [
     {
-      "root": "src",
-      "outDir": "dist",
+      "root": "src/poc1",
+      "outDir": "../public/poc1",
+      "name": "poc1",
       "assets": [
         "assets",
         "favicon.ico"
